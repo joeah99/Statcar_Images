@@ -1,8 +1,4 @@
-
-![NASCAR Cup Series @ Sonoma 2026](./shane-van-gisbergen-trackhouse.webp)
-Thumbnail photo credit: Icon Sportswire via Getty Images
-
-## Cup Series: Toyota / Save Mart 350
+## Cup: Toyota / Save Mart 350
 
 This past weekend, the Cup Series ran its final race of the first half of the 2026 season, and its fourth and final race on a non-oval circuit. Shane van Gisbergen held on to claim his second win of the season, but in much closer fashion than his earlier win at Watkins Glen. While SVG did lead a dominating 74 of the 110 laps, it looked like just one more lap was all that Chase Briscoe needed to get past him. SVG admittedly did not have the greatest car of his NASCAR career, but his generational road course talent was enough to hold off the superior Joe Gibbs Racing equipment and (somewhat) make up for getting wrecked while battling for the lead two weeks ago in San Diego.
 
@@ -16,14 +12,9 @@ As far as other notable drivers and performances this past weekend, the rookie C
 
 The race itself mirrored the O'Reilly and ARCA West races earlier in the weekend in that there was very little chaos. The only caution besides the scheduled stage cautions came on lap 61 when Austin Cindric and Josh Berry got together, causing Berry to spin and forcing Noah Gragson and Bubba Wallace to slam the brakes to avoid hitting Berry. All four drivers avoided getting any race-impacting damage.
 
-## O'Reilly Auto Parts Series: Pit Boss/FoodMaxx 250
+## O'Reilly: Pit Boss/FoodMaxx 250
 
-<figure style="float: left; margin-left: 0px; margin-right: 30px; width: 300px;">
-  <img src="./oreilly-van-gisbergen-leads.jpg" alt="NASCAR O'Reilly Auto Parts Series @ Sonoma 2026" style="width: 100%;">
-  <figcaption style="font-size: 1em; color: gray; text-align: center;">
-    Credit: James Gilbert/Getty Images
-  </figcaption>
-</figure>
+![O'Reilly @ Sonoma 2026 | Credit: Getty Images | left](https://github.com/joeah99/Statcar_Images/blob/main/2026_Sonoma_Elko/oreilly-van-gisbergen-leads.jpg?raw=true)
 
 The O'Reilly race was one of the most calm ones in recent memory, which was definitely to the benefit of race winner Shane van Gisbergen. Picking up his second O'Reilly win of the year on Saturday before going on to win his second Cup race of the year on Sunday, SVG looked to be making a warmup session out of the O'Reilly race. His only real competition all race was his JR Motorsports teammate and fellow Cup leech Connor Zilisch, who had to start in the back after getting a flat tire in qualifying, and was left playing catch-up all day. Zilisch was closing the gap to SVG in the final laps, as van Gisbergen was in fuel saving mode for much of the third stage, but Zilisch never got within striking distance.
 
@@ -33,14 +24,9 @@ Other drivers who ran better than anticipated this weekend, or at least much bet
 
 While the O'Reilly race was uneventful overall, it, like the Cup race, spelled trouble for the points leader. Justin Allgaier has been a force to be reckoned with this season on the ovals, already picking up five wins, clinching a spot in the Chase after Pocono, and all but locking up the regular season title. But much like the current Cup Series points leader Denny Hamlin, Allgaier has not had the greatest results on the road courses in recent years. While he still usually has top 10 speed on them, the past two weeks have gone much worse than usual for him; at San Diego he finished in 32nd after suffering engine problems, and at Sonoma he wound up 26th after a few off track excursions. There's no doubt that Chicagoland will also be a breath of fresh air for Allgaier this weekend.
 
-## ARCA Menards Series: Shore Lunch 250 presented by Dutch Boy
+## ARCA: Shore Lunch 250 presented by Dutch Boy
 
-<figure style="float: right; margin-left: 30px; margin-right: 0px; width: 300px;">
-  <img src="./731105153_1020831290353448_3735918347645139575_n.jpg" alt="ARCA Menards Series West @ Sonoma 2026" style="width: 100%;">
-  <figcaption style="font-size: 1em; color: gray; text-align: center;">
-    Credit: ARCA Menards Series (Facebook)
-  </figcaption>
-</figure>
+![ARCA @ Elko 2026 | Credit: ARCA Menards Facebook | right](https://github.com/joeah99/Statcar_Images/blob/main/2026_Sonoma_Elko/731105153_1020831290353448_3735918347645139575_n.jpg?raw=true)
 
 While NASCAR was down in California, the ARCA Menards Series was up in Minnesota for its annual trek to the 3/8 mile short track Elko Speedway. In practice, it was surprisingly Jason Kitzmiller in the CR7 Motorsports 97 car leading the way over Joe Gibbs Racing's Max Reaves and the two Pinnacle Racing Group Chevys of Taylor Reimer and Landon S. Huffman. Kitzmiller, who has competed in ARCA since 2020, has yet to win a race and heading into Elko had yet to score a top 5 finish this season. While he wasn't able to back up his practice pace in the race, Kitzmiller did walk away with a well-earned fifth place finish.
 
@@ -49,15 +35,3 @@ After the polesitter Thomas Annunziata drifted back, the battle for the win came
 The points leader Jake Bollman fought his way to a second place finish after running around fourth or fifth for most of the race, widening the gap between himself and the only other realistic championship contender Thomas Annunziata to 21 points. Of all the drivers who weren't involved in any incidents and didn't have any mechanical woes, Annunziata probably had the worst race. After winning the pole and finishing second at Berlin Raceway one week prior and then winning the pole again at Elko, expectations for Annunziata and the Nitro Motorsports 70 team were to challenge for the win, not to fall off the lead lap and finish in seventh place like they did.
 
 The final driver I'll mention is Ty Fredrickson, who finished an impressive third place in the Nitro Motorsports 25 car. Fredrickson, a 17 year old Minnesota native, made his ARCA debut last year in the same 25 car, then owned by Venturini Motorsports, where he finished in fourth place, but he didn't receive any further ARCA opportunities until this past weekend. In September of last year, the young driver took the win at Elko in the ASA Midwest Tour race and could definitely be one to watch if he is able to secure more funding and race at the national level more often.
-
-
-
-
-
-
-
-
-
-
-
-
