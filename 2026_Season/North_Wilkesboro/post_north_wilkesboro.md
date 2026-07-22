@@ -1,5 +1,13 @@
 ## Cup: Window World 450
 
+Although the Cup Series equipment gap has shrunk overall with the introduction of the NextGen car in 2022 and its many standardized parts, Sunday's race at North Wilkesboro would have you thinking otherwise. In the most recent points-paying race at North Wilkesboro in 1996, eleven cars finished on the lead lap, but this past Sunday, only six cars did.
+
+After 450 laps on any short track, you can expect to see fewer cars on the lead lap than not (unless there are a high number of cautions), but two factors in particular contributed to the *very* low number of cars on the lead lap. First, an untimely caution in the middle of stage 2 green flag pit stops trapped multiple top 10 drivers not just one, but two laps down. And second, Joey Logano was flat out dominant. His only real competition in the final stage, Denny Hamlin, trailed closely behind, but everyone else was outside of his ballpark.
+
+But despite the green flag pit stop incident shuffling up the running order and multiple upsets in the top 10, especially SVG finishing 5th and Todd Gilliland finishing 8th, there were still pretty strong correlations between some individual stats and finishing position.
+
+As has been the trend in the Cup Series recently, team-level stats, particularly long-term ones, were the most predictive of finishing position. Of note, three of the top four stats had to do with average restart speed over the past 10 short track races. Given the long green flag runs in the race, including a completely green final stage, restart speed likely didn't play much of a role in the finishing results, but at the same time, getting track position at a harder-to-pass track like North Wilkesboro is extremely important, and naturally a lot of the best short track restarters are also just good short track racers in general. Note that it is also much easier to take off fast on a restart if you are already at the front of the pack.
+
 **Note:** *Refer to the notes at the bottom of the page for explanations of each stat*
 
 ### Top 10 Stats Correlated to Finishing Position (2026 North Wilkesboro)
@@ -17,14 +25,17 @@
 | 9    | is_top_25_roll30_general_team                  | -0.6586965255   | 0.6586965255    |
 | 10   | avg_ps_roll10_tracktype_team                   | 0.6572388199    | 0.6572388199    |
 
-
-
-
-
-
 ## Trucks: FaithFest 250
 
-![Trucks @ North Wilkesboro 2025 | Credit: James Gilbert / Getty Images](https://github.com/joeah99/Statcar_Images/blob/main/2026_Season/North_Wilkesboro/Trucks%202025%20NW.jpg?raw=true)
+![Trucks @ North Wilkesboro 2026 | Credit: Patricia McCormack / TheFourthTurn.com](https://github.com/joeah99/Statcar_Images/blob/main/2026_Season/North_Wilkesboro/IMG_9249-1024x683.jpg?raw=true)
+
+The Truck race at North Wilkesboro was the cleanest all season, and was definitely a breath of fresh air after the series' especially chaotic two most recent races. Like the Cup race, the final stage went completely green, and there were also quite a few upsets in the top 10. While it wouldn't have been that much of a longshot to predict SVG finishing top 10, I don't think anyone had him in third place behind the wheel of the part-time #71 Spire truck. The same can be said for series' newest road course ace Landen Lewis, who earned his first oval top 5 finish. And while not quite in the top 10, Lewis's teammate Tyler Reif also performed better than most thought he would with a 12th place finish. After this race, I would definitely expect Lewis to get bumped up to full-time status next year, but I need to see a bit more from Reif to say the same about him.
+
+On the flip side, my pick to win, Corey Heim, finally showed weakness in the Truck Series, finishing back in ninth place and losing his record-smashing 31 straight race streak of leading at least one lap. This was Heim's sixth Truck start of 2026 and his second in the TRICON #5 truck. In his first and only time driving the #5, he won at Darlington with an incredible final lap pass on Ross Chastain, but the #5 has always been the weak link of TRICON's Truck operation and that was definitely on display this past weekend.
+
+The winning pick for many of the sports betting apps was Christopher Bell, the 2025 All Star Race winner at North Wilkesboro and the most recent Truck Series winner on a short track, but he too struggled in the race, falling back to finish in 15th place, one lap down.
+
+But while two of the top picks struggled, multiple individual stats still had very strong correlations to finishing position, simply by nature of the race running green for so long. This time around, most of the top correlated stats were speed-or-consistency-related stats over the 10 most recent races in general. Most were also related to carteam (the truck number + team combination), which is to be expected in the Truck Series, where there are typically many part-time drivers switching in and out of full-time trucks.
 
 ### Top 10 Stats Correlated to Finishing Position (2026 North Wilkesboro)
 
