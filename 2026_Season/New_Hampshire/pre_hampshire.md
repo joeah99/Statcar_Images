@@ -89,3 +89,32 @@ Please take into consideration that these rankings are generated with the goal o
 | 39         | 33    | Frankie Muniz          | Team Reaume                     | Ford      |
 | 40         | 93    | D. L. Wilson           | Costner Motorsports             | Chevrolet |
 | 41         | 69    | Derek White            | Motorsports Business Management | Ford      |
+
+## ARCA: Calypso 100
+
+| Pred. Fin. | Car # | Driver            | Team                   | Make      |
+|:----------:|:-----:|:-----------------:|:----------------------:|:---------:|
+| 1          | 18    | Max Reaves*       | Joe Gibbs Racing       | Toyota    |
+| 2          | 28    | Carson Brown*     | Pinnacle Racing Group  | Chevrolet |
+| 3          | 77    | Taylor Reimer*    | Pinnacle Racing Group  | Chevrolet |
+| 4          | 70    | Thomas Annunziata | Nitro Motorsports      | Toyota    |
+| 5          | 16    | Kelly Kovski      | Kelly Kovski Racing    | Chevrolet |
+| 6          | 25    | Gavan Boschele*   | Nitro Motorsports      | Toyota    |
+| 7          | 20    | Jake Bollman*     | Nitro Motorsports      | Toyota    |
+| 8          | 55    | Isabella Robusto  | Nitro Motorsports      | Toyota    |
+| 9          | 79    | Isaac Kitzmiller* | ACR Motorsports        | Chevrolet |
+| 10         | 8     | Sean Corr         | Empire Racing          | Chevrolet |
+| 11         | 97    | Jason Kitzmiller  | CR7 Motorsports        | Chevrolet |
+| 12         | 10    | Tim Monroe        | Fast Track Racing      | Ford      |
+| 13         | 11    | Tony Cosentino    | Fast Track Racing      | Chevrolet |
+| 14         | 91    | Shawn Allen Jr.*  | Maples Motorsports     | Chevrolet |
+| 15         | 12    | Takuma Koga       | Fast Track Racing      | Toyota    |
+| 16         | 06   | Trenton Masters*  | Wayne Peterson Racing  | Toyota    |
+| 17         | 03   | Alex Clubb        | Clubb Racing Inc.      | Ford      |
+| 18         | 48    | Brad Smith        | Brad Smith Motorsports | Ford      |
+| 19         | 83    | Brayton Laster    | Clubb Racing Inc.      | Ford      |
+| 20         | 98    | Dale Shearer      | Shearer Speed Racing   | Toyota    |
+| 21         | 99    | Michael Maples    | Maples Motorsports     | Chevrolet |
+| 22         | 81    | Kevin Campbell    | KC Motorsports         | Chevrolet |
+| 23         | 86    | Jeff Maconi*      | Clubb Racing Inc.      | Ford      |
+| 24         | 19    | Kenna Long*       | Maples Motorsports     | Chevrolet |
